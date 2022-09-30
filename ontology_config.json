@@ -4,8 +4,10 @@
   "extensions": [
       "linkedart.xml",
       "linkedart_crm_enhancements.xml",
-      "crmsci.xml",
+      "crmsci.xml"
   ],
+  
+  
   "base_version": "7.1.1",
   "base_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71"
 }
