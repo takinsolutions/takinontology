@@ -3,7 +3,7 @@
   "base_name": "Takin.solutions (09-2022)",
   "extensions": [
       "linkedart.xml",
-      "linkedart_crm_enhancements.xml"
+      "linkedart_crm_enhancements.xml",
       "crmsci.xml",
   ],
   "base_version": "7.1.1",
